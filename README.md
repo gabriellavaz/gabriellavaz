@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3 align="right">Hi 👋</h3> 
+
+🌱 _I'm studying **JavaScript, Vue.js, ReactJS, TypeScript and Node.js**_<br>
+🔭 _I’m looking to collaborate on front-end developments_<br>
+📫 _How to reach me: asv.gabriella@gmail.com_
+
 
 <!--
 **gabriellavaz/gabriellavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
